@@ -1,0 +1,8 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio's own working files
+.vs/
+*.user
+*.suo
